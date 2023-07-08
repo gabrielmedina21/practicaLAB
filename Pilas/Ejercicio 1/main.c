@@ -5,7 +5,7 @@
 
 int main()
 {
-    /** DECLARACIÓN DE VARIABLES **/
+    /** DECLARACIÃ“N DE VARIABLES **/
     Pila dada,aux1,aux2;
     int i;
 
@@ -45,8 +45,6 @@ int main()
     mostrar(&aux1);
     printf(" PILA AUX 2... \n");
     mostrar(&aux2);
-    printf(" PILA DADA... \n");
-    mostrar(&dada);
-
+    
     return 0;
 }
