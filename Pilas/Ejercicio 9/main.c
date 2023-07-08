@@ -39,7 +39,7 @@ int main()
 
         printf(" CARGANDO PILA B... \n\n");
         leer(&b);
-        printf("\n %cQuieres continuar cargando la pila? s=SI / n=NO ");
+        printf("\n %cQuieres continuar cargando la pila? s=SI / n=NO " , 168);
         fflush(stdin);
         continuar = getch();
 
