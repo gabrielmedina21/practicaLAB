@@ -27,7 +27,7 @@ int main()
 
        leer(&origen);
 
-       printf("\n %cQuieres continuar cargando la pila? s=SI / n=NO ");
+       printf("\n %cQuieres continuar cargando la pila? s=SI / n=NO " , 168);
        fflush(stdin);
        continuar = getch();
 
