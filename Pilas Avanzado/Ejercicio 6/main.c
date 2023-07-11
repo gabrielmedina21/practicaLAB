@@ -5,7 +5,7 @@
 
 int main()
 {
-/** DECLARACIÓN DE VARIABLES **/
+/** DECLARACIÃ“N DE VARIABLES **/
 
     Pila dada;
     Pila auxDada;
@@ -26,7 +26,7 @@ int main()
         apilar(&dada , rand() %50);
     }
 
-    printf(" PILA CARGADA ALEATORIAMENTE \n");
+    printf("\t\t\t PILA CARGADA ALEATORIAMENTE \n");
     mostrar(&dada);
 
     while(!pilavacia(&dada)){
