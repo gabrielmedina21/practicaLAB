@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1689100672 source:d:\tecnicatura universitaria en programación\práctica lab\pilas avanzado\ejercicio 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"pila.h"
+
+1490112218 d:\tecnicatura universitaria en programación\práctica lab\pilas avanzado\ejercicio 8\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1557362724 source:d:\tecnicatura universitaria en programación\práctica lab\pilas avanzado\ejercicio 8\pila.c
+	"pila.h"
+
