@@ -19,7 +19,7 @@ int main()
 
 /* ------------------------------------- */
 
-    printf(" EJERCICIO 4 - PILAS AVANZADO \n\n");
+    printf("\t\t\t EJERCICIO 4 - PILAS AVANZADO \n\n");
 
     srand(time(NULL));
 
