@@ -23,7 +23,7 @@ int main()
     do{
         system("cls");
 
-        printf(" EJERCICIO 3 - PILAS AVANZADO \n\n");
+        printf("\t\t\t EJERCICIO 3 - PILAS AVANZADO \n\n");
 
         printf(" CARGANDO PILA... \n\n");
         leer(&dada);
