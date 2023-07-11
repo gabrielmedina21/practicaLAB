@@ -15,7 +15,7 @@ int main()
     inicpila(&numAInsertar);
 
 /* ------------------------------------- */
-    printf(" EJERCICIO 5 - PILAS AVANZADO \n\n");
+    printf("\t\t\t EJERCICIO 5 - PILAS AVANZADO \n\n");
 
     apilar(&dada , 5);
     apilar(&dada , 4);
