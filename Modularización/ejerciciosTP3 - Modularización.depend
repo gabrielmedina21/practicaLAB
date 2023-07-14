@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1557362724 source:d:\tecnicatura universitaria en programación\práctica lab\modularización\ejerciciostp3 - modularización\pila.c
+	"pila.h"
+
+1490112218 d:\tecnicatura universitaria en programación\práctica lab\modularización\ejerciciostp3 - modularización\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1689300803 source:d:\tecnicatura universitaria en programación\práctica lab\modularización\ejerciciostp3 - modularización\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"pila.h"
+
