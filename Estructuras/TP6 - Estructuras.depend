@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1689556159 source:d:\tecnicatura universitaria en programación\práctica lab\estructuras\tp6 - estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
